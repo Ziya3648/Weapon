@@ -1,0 +1,22 @@
+AK-74
+
+Silahin novu: AK-74 (5.45 mm)
+Gulle tutumu: 30 патр. магазин
+Hal-hazirda gulle sayi: 24
+Avtomatik temp: Темп стрельбы около 100 выстрелов в минуту 
+Tek-tek atis tempi: При стрельбе одиночными выстрелами — до 40 выстрелов в минуту.
+
+Avtomatik
+
+  60000 ms deq ------ 40
+p 90000 -------x
+X ----------- 24
+
+
+
+Silahin novu: M4 (5.56 mm)
+Gulle tutumu: 60 патр. магазин
+Hal-hazirda gulle sayi: 40
+
+
+
